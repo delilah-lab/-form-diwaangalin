@@ -31,6 +31,3 @@ This project is licensed under the MIT License, allowing for personal and commer
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or want to add new features, please feel free to create a pull request.
 
-## Contact Me
-
-If you have any questions or feedback, please reach out through my contact form [here](https://forms.gle/nXtzbpJXCPSpXUh8A).
